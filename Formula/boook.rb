@@ -1,8 +1,8 @@
 class Boook < Formula
   desc "Terminal-based book reader"
   homepage "https://github.com/rodifed/boook"
-  url "https://github.com/rodifed/boook/archive/refs/tags/v0.2.2.tar.gz"
-  sha256 "f1bed733f7d2692f1d59d66cb2024084e65b4cd95857c8205c1be6bfc7d5f00e"
+  url "https://github.com/rodifed/boook/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "eecc6019a71293135c541afdf09973b12ed6949c2abd6f9a064d0e550824c63a"
   license "MIT"
 
   depends_on "xmake" => :build
